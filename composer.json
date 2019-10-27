@@ -1,5 +1,5 @@
 {
-    "name": "ezimuel/fastpriorityqueue",
+    "name": "johnroyer/fastpriorityqueue",
     "description": "Efficient integer priority queue implementation in PHP",
     "license": "BSD-3-Clause",
     "keywords": [
